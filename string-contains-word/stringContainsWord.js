@@ -20,7 +20,7 @@ function stringContainsWord(str, word){
       else { lowerBound = i + 1}
     }
   }
-  return "word not found"
+  return false
 
 }
 
